@@ -1,16 +1,39 @@
-# movieapp_181193
+# DMI_Practica9_181193
 
-A new Flutter project.
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ingeniería en Desarrollo y Gestión de Software
+## Mariela González López
+## 10A
+## Itemización de las peliculas e incorporaqción del widget card
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+&nbsp;
+&nbsp;
+|  Características |  Información |
+| :------------: | :------------: |
+| **Nombre**  |  **Practica 9.**  |
+| **Descripción**  | Aplicación desarrollada en Flutter que demuestra cómo crear una página de inicio interactiva para explorar películas y programas de televisión, itemizando las peliculas e incorporando el Widget card |
+|  **Fecha de Carga** | 06/10/23  |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+
+[![app.png](https://i.postimg.cc/NFQqFwxD/app.png)](https://postimg.cc/njSwSgg9)
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
