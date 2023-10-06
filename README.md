@@ -10,7 +10,7 @@
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Mariela González López
 ## 10A
-## Itemización de las peliculas e incorporaqción del widget card
+## Itemización de las peliculas e incorporación del widget card
 
 &nbsp;
 &nbsp;
